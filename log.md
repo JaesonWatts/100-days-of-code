@@ -19,6 +19,16 @@
 **Link to work:** 
 1. [fathr-backend](https://github.com/JaesonWatts/fathr-backend)
 
+### Day 3: November 20, 2020 
+
+**Today's Progress**: Technically it's still Thursday because I haven't slept. React app work started. Home and dashboard components created, working on registration component. Having some trouble with axios giving me a return but it's 3 am and I am going to bed.
+
+**Thoughts:** I dislike react solely because it was hard for me in school. and because of that I will keep doing react stuff until i no longer have troubles with it. I skipped thursday because single parenting remote learners in a pandemic is just effing stupid. after dealing with that all day I didnt even have the energy to sit at the pc so as a compromise I read from my Ruby book. 
+I do know that waiting til the end of the day is probably going to be the wrong approach. I will have to get up an hour earlier in order to fit in this coding before the day of parenting starts. I need an income to pay for child care.
+
+**Link to work:** 
+1. [fathr](https://github.com/JaesonWatts/fathr)
+
 
 
 
