@@ -30,7 +30,7 @@ I do know that waiting til the end of the day is probably going to be the wrong 
 1. [fathr](https://github.com/JaesonWatts/fathr)
 
 
-### Day 4: December 04, 2020 
+### Day 4: December 03, 2020 
 
 **Today's Progress**: Today I worked on the first phase of my market-pattern-analyzer. I have a hobby method for trading cryptocurrency that I decided to try to automate.
 
