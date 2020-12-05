@@ -39,5 +39,15 @@ I do know that waiting til the end of the day is probably going to be the wrong 
 **Link to work:** 
 https://github.com/JaesonWatts/market-pattern-analyzer
 
+### Day 5: December 04, 2020 
+
+**Today's Progress**: Today I continued work on my market pattern analyzer. I had the gold price history analyzer working and spent the time doing the same with the btc data.
+
+**Thoughts:** I spent a lot of time just changing figures and rerunning code, then thinking, then researching, rinse and repeat. Although there was not a lot of original code created today there was a lot of time spent on learning, thinking, and planning on this project. I can see just how complex this is going to be but I can also see the benefits of making it work.
+
+**Link to work:** 
+https://github.com/JaesonWatts/market-pattern-analyzer
+
+
 
 
