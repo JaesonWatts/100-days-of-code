@@ -48,6 +48,18 @@ https://github.com/JaesonWatts/market-pattern-analyzer
 **Link to work:** 
 https://github.com/JaesonWatts/market-pattern-analyzer
 
+**Link to work:** 
+https://github.com/JaesonWatts/market-pattern-analyzer
+
+### Day 6: December 08, 2020 
+
+**Today's Progress**: Today I started a ruby on rails app for tracking job applications and the status of them as well as metrics. I got local signup and login working as well as omniauth google 3rd party authorizion.
+
+**Thoughts:** I love ruby and rails. like a lot. the ruby language is so elegant and pleasure to work in and I have built several api only rails apps recently but only one full RoR app. It feels good. I enjoy it. I had an interview today that validated my decision to focus on ruby and rails as a niche. forward!
+
+**Link to work:** 
+https://github.com/JaesonWatts/application-tracker
+
 
 
 
