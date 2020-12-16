@@ -60,6 +60,15 @@ https://github.com/JaesonWatts/market-pattern-analyzer
 **Link to work:** 
 https://github.com/JaesonWatts/application-tracker
 
+### Day 7: December 15, 2020 
+
+**Today's Progress**: I got a good portion of the application tracker built and working. At this point you can add/edit/delete companies and open positions. It took about an hour to build the two models/controllers/views/routs etc and test them.
+
+**Thoughts:** So this is being put in the log today(12/16) but the work was done yesterday. I just fell asleep before I got to the log.  The hardest part of every project for me is coming up with what to do. I can build anything. I don't always have an idea but I can take an idea and make it a reality, it's the coming up with the idea part that is difficult sometimes. This time I had an idea but I needed to work on visualizing the idea. My friend and mentor, Matt, told me to practice use cases and that should help me, so I did. I drew and visualized the use of the app from login through use all the way to logout.  Once I did this the vision of what I needed became clear. After that it's back to my safe space, programming...talking to a computer.  Talking to computers is my love language.
+
+**Link to work:** 
+https://github.com/JaesonWatts/application-tracker
+
 
 
 
